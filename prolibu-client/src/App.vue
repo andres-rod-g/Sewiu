@@ -1,5 +1,5 @@
 <template>
-    <h1>Prolibu - Andrés Rodríguez</h1>
+    <h1>Sewiu - Andrés Rodríguez</h1>
     <div id="form-container" action="">
         <div id="first-container">
             <div id="second-container">
